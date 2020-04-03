@@ -1,3 +1,5 @@
+## NOTE: this repository is archived. For vim configuration please refer to [dotfile repository](https://github.com/aronnebrivio/dotfiles)
+
 # Neovim Config
 Based on [ddrscott/congif-nvim](https://github.com/ddrscott/config-nvim).
 
